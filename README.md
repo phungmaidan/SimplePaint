@@ -1,5 +1,6 @@
 # SimplePaint
 Chương trình vẽ cơ bản
+
 Chú thích:
 
 Line: Vẽ đoạn thẳng.
